@@ -39,4 +39,5 @@ PROJECT directoey had two parts
 by this the file will be moved to staging area 
 to remove from staging : git rm --cached <file>
  
+Git follows CHECKSUM to track evry change and commit that occur
 

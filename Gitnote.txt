@@ -45,4 +45,6 @@ to commit the file into LR : git commit -m "meaage"
 
 to skip the staging and commit: git commit a- -m 'mesg'
 
-diff word: shows the changes that occurn in file
+diff word: ti check whrn in WD shows the changes that occurn in file : git diff
+
+--staged : to check whrn in staging

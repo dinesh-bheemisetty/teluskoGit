@@ -36,5 +36,7 @@ PROJECT directoey had two parts
  first we need to add file to staging area
     git add FILE-name
     eg: git add git.txt
+by this the file will be moved to staging area 
+to remove from staging : git rm --cached <file>
  
 

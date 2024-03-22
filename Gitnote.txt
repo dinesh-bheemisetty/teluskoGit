@@ -1,0 +1,40 @@
+git
+git is a distributed version control system
+
+version control:
+    when creating different versions of the applicaion saving everu version of htat application
+vs's are 3 types
+- local vc: keeping everythonh in own computer 
+- Centralized vcs: can use when working together with someone by using a centralisez storage
+- Distuibuted vcs: the dat awil be stored in ventral and local storages
+
+to check version: git --version
+
+to check all: git config
+to check name, email: git config --global --list
+
+to set name and email: git config --global name/email 'name'/'email'
+
+staging area wher git records the changes of certain files
+
+there are two which files store 
+-working directory
+- git repository
+
+
+GIT STATUS  : only worrks if git init starts 
+
+to create git local repository : git init [it will start a master branch]
+
+to create a main branch : git init -b main
+
+---TO ADD FILES TI GIT---
+PROJECT directoey had two parts
+-woking firectory : it is before adding to LR
+ -local repository(.git)
+
+ first we need to add file to staging area
+    git add FILE-name
+    eg: git add git.txt
+ 
+

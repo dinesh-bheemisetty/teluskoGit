@@ -41,3 +41,8 @@ to remove from staging : git rm --cached <file>
  
 Git follows CHECKSUM to track evry change and commit that occur
 
+to commit the file into LR : git commit -m "meaage"
+
+to skip the staging and commit: git commit a- -m 'mesg'
+
+diff word: shows the changes that occurn in file
